@@ -1,7 +1,3 @@
-# Quiz-app
-Here is a formatted README file for your GitHub project:
-
----
 
 # Quiz App
 
